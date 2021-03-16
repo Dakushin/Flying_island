@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2d52d3e6a4b5e264eae8dfb4af2493f4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cadnaouvert: {fileID: 776556990268982982, guid: fc406e193e5b40a44afe999a9307806a,
+      type: 3}
+  - sp_cadnaouvert: {fileID: 21300000, guid: 331497ca28f33054b90d0fb8a87d5e6e, type: 3}
+  - sp_cadnafermer: {fileID: 21300000, guid: d9240644feba7a043b1e2b0bb495b0da, type: 3}
+  - sp_cadnabriser: {fileID: 21300000, guid: 23b831fa08227534ea04a92cab0ce641, type: 3}
+  - cam: {instanceID: 0}
+  - player: {instanceID: 0}
+  - "\xE9paule": {instanceID: 0}
+  - Lock: {instanceID: 0}
+  - inbLock: {instanceID: 0}
+  - audio: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
